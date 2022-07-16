@@ -1,0 +1,16 @@
+#for mac
+*/.DS_Store
+.DS_Store
+
+#for c++
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+#for vscode
+*/.vscode
