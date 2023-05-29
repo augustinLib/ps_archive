@@ -11,7 +11,4 @@
 
 
 ## 사용 언어
-Python, C++, Javascript(Node.js)
-
-
-
+Python, C++, Javascript(Node.js), Go
