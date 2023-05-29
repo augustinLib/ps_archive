@@ -255,4 +255,10 @@ cython_debug/
 # Ignore code-workspaces
 *.code-workspace
 
+test.ipynb
+test.go
+test.dart
+test.js
+test.*
+
 # End of https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode,python,macos
