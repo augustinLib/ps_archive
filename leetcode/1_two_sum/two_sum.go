@@ -1,4 +1,10 @@
 // brute force
+package main
+
+func main() {
+	twoSum([]int{2, 7, 11, 15}, 9)
+}
+
 func twoSum(nums []int, target int) []int {
 	for i := 0; i < len(nums); i++ {
 		for j := i + 1; j < len(nums); j++ {
